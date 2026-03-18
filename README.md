@@ -31,5 +31,5 @@ It integrates powerful tools like Nmap and Nuclei to deliver **real-time securit
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/complianceshield.git
-cd complianceshield
+git clone https://github.com/steven5233/compliance.git
+cd compliance 
